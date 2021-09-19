@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "neon"
 # Site Settings
 locale                   : "en-US"
 title                    : "Jadeidol1의 개발 블로그"
-title_separator          : "since 2021"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "-"
+subtitle                 : "since 2021"
 name                     : "Todd Seungwoo Lee"
 description              : "An amazing website."
 url                      : "jadeidol1.github.io"
