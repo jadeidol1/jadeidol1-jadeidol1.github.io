@@ -109,16 +109,16 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "qu13210@gmail.com"
+      url: "qu13210@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/jadeidol1"
+      url: "https://github.com/jadeidol1"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/inseungtagram__"
+      url: "https://instagram.com/inseungtagram__"
 
 # Site Footer
 footer:
