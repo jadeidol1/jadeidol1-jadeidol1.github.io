@@ -6,3 +6,10 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+@font-face {
+    font-family: 'DungGeunMo';
+    src: url('/assets/DungGeunMo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
