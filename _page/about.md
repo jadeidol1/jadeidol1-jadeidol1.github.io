@@ -1,6 +1,6 @@
 ---
-layout: "About"
-permalink: "/about/"
+layout: About
+permalink: /about/
 title: "About Me"
 author_profile: true
 ---
