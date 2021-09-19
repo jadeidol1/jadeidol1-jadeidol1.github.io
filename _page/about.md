@@ -1,7 +1,8 @@
 ---
-layout: single
 permalink: /about/
-title: "About Me"
-author_profile: true
+title: "About"
+toc: true
+toc_sticky: true
+toc_label: "MYSELF"
 ---
-무야호
+ddd
