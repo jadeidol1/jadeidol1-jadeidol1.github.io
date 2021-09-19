@@ -3,9 +3,9 @@ main:
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About"
-     url: https://jadeidol1.github.io/minimal-mistakes/about/
+     url: https://jadeidol1.github.io/about/
    - title: "Posts"
-     url: /Posts/
+     url: https://jadeidol1.github.io/Posts/
    - title: "Favorite"
-     url: /Favorite/
+     url: https://jadeidol1.github.io/Favorite/
  
