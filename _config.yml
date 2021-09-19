@@ -105,6 +105,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "날마다 새로우며 깊어지고 넓어진다."
   location         : "김포, 대한민국"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
