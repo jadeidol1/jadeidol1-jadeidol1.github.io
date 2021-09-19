@@ -101,15 +101,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Todd Seungwoo Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "날마다 새로우며 깊어지고 넓어진다."
+  location         : "김포, 대한민국"
+  email            : "E-Mail"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "qu13210@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
