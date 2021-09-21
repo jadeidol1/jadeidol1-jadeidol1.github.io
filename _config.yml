@@ -255,3 +255,5 @@ defaults:
       comments: true
       share: true
       related: true
+
+dark_theme_toggle        : true
