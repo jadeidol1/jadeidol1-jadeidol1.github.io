@@ -1,8 +1,8 @@
 ---
 permalink: /about/
 title: "About"
+excerpt: "about.md"
 toc: true
-toc_sticky: true
-toc_label: "MYSELF"
+tags: [About]
 ---
-ddd
+쓸 내용들
